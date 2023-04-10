@@ -4,13 +4,13 @@ accounts:
     coins:
       - 20000token
       - 200000000stake
-    # address: cosmos1ezptsm3npn54qx9vvpah4nymre59ykr9967vj9
+    address: cosmos1ezptsm3npn54qx9vvpah4nymre59ykr9967vj9
     mnemonic: slide moment original seven milk crawl help text kick fluid boring awkward doll wonder sure fragile plate grid hard next casual expire okay body
   - name: bob
     coins:
       - 10000token
       - 100000000stake
-    # address: cosmos1aqn8ynvr3jmq67879qulzrwhchq5dtrvh6h4er
+    address: cosmos1aqn8ynvr3jmq67879qulzrwhchq5dtrvh6h4er
     mnemonic: trap possible liquid elite embody host segment fantasy swim cable digital eager tiny broom burden diary earn hen grow engine pigeon fringe claim program
 client:
   openapi:
